@@ -19,7 +19,7 @@ INSERT INTO albums (name, year_release)
 VALUES ('Sweetbitter', '2008'),
        ('No choice', '2010'),
        ('Cookie cutter', '2020'),
-       ('Audience', '2017'),
+       ('Audience', '2018'),
        ('Drop dead', '2005'),
        ('Glass house', '2021'),
        ('With feeling', '2005'),
